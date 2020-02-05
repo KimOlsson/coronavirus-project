@@ -18,7 +18,9 @@ This is one of my first scraping attempts ever. I may add more features in the f
 
 ## Usage
 
-Run the program
 `node app.js`
+
+Creates new file `coronavirus_data_<timestamp>.json` (over 200kB)
+Might output some relevant information to console.
 
 The source data is updated frequently, and sometimes the format is not consistent, hence requiring update on this project.
