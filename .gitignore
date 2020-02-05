@@ -1,0 +1,6 @@
+config.json
+old_data/
+coronavirus*
+*.zip
+todo.txt
+node_modules/

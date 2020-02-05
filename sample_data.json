@@ -1,0 +1,231 @@
+{
+  "country": {
+      "Mainland China": {
+          "province": {
+              "Hubei": {
+                  "entries": {
+                      "02/04/2020 09:43": {
+                          "infections": 13522,
+                          "deaths": 414,
+                          "recoveries": 397
+                      },
+                      "02/04/2020 01:23": {
+                          "infections": 13522,
+                          "deaths": 414,
+                          "recoveries": 396
+                      },
+                      "02/03/2020 13:33": {
+                          "infections": 11177,
+                          "deaths": 350,
+                          "recoveries": 300
+                      },
+                      "02/02/2020 23:43": {
+                          "infections": 11177,
+                          "deaths": 350,
+                          "recoveries": 295
+                      },
+                      "02/01/2020 23:33": {
+                          "infections": 9074,
+                          "deaths": 294,
+                          "recoveries": 215
+                      },
+                      "02/01/2020 11:53": {
+                          "infections": 7153,
+                          "deaths": 249,
+                          "recoveries": 168
+                      },
+                      "02/01/2020 10:00": {
+                          "infections": 7153,
+                          "deaths": 249,
+                          "recoveries": 168
+                      },
+                      "01/31/2020 19:00": {
+                          "infections": 7153,
+                          "deaths": 249,
+                          "recoveries": 169
+                      },
+                      "01/31/2020 14:00": {
+                          "infections": 5806,
+                          "deaths": 204,
+                          "recoveries": 141
+                      },
+                      "01/30/2020 21:30": {
+                          "infections": 5806,
+                          "deaths": 204,
+                          "recoveries": 116
+                      },
+                      "01/30/2020 11:00": {
+                          "infections": 4903,
+                          "deaths": 162,
+                          "recoveries": 90
+                      },
+                      "01/29/2020 21:00": {
+                          "infections": 4586,
+                          "deaths": 162,
+                          "recoveries": 90
+                      },
+                      "01/29/2020 14:30": {
+                          "infections": 3554,
+                          "deaths": 125,
+                          "recoveries": 88
+                      },
+                      "01/29/2020 13:30": {
+                          "infections": 3554,
+                          "deaths": 125,
+                          "recoveries": 80
+                      },
+                      "01/28/2020 23:00": {
+                          "infections": 3554,
+                          "deaths": 125,
+                          "recoveries": 80
+                      },
+                      "01/28/2020 18:00": {
+                          "infections": 3554,
+                          "deaths": 125,
+                          "recoveries": 80
+                      },
+                      "01/28/2020 13:00": {
+                          "infections": 2714,
+                          "deaths": 100,
+                          "recoveries": 52
+                      },
+                      "01/27/2020 20:30": {
+                          "infections": 2714,
+                          "deaths": 100,
+                          "recoveries": 47
+                      },
+                      "01/27/2020 19:00": {
+                          "infections": 1423,
+                          "deaths": 76,
+                          "recoveries": 45
+                      },
+                      "01/27/2020 09:00": {
+                          "infections": 1423,
+                          "deaths": 76,
+                          "recoveries": 45
+                      },
+                      "01/26/2020 23:00": {
+                          "infections": 1423,
+                          "deaths": 76,
+                          "recoveries": 44
+                      }
+                  }
+              },
+              "Zhejiang": {
+                  "entries": {
+                      "02/04/2020 13:03": {
+                          "infections": 829,
+                          "deaths": 0,
+                          "recoveries": 62
+                      },
+                      "02/04/2020 01:43": {
+                          "infections": 829,
+                          "deaths": 0,
+                          "recoveries": 48
+                      },
+                      "02/03/2020 13:33": {
+                          "infections": 724,
+                          "deaths": 0,
+                          "recoveries": 43
+                      },
+                      "02/03/2020 01:33": {
+                          "infections": 724,
+                          "deaths": 0,
+                          "recoveries": 36
+                      },
+                      "02/02/2020 18:03": {
+                          "infections": 661,
+                          "deaths": 0,
+                          "recoveries": 32
+                      },
+                      "02/02/2020 02:13": {
+                          "infections": 661,
+                          "deaths": 0,
+                          "recoveries": 23
+                      },
+                      "02/01/2020 10:53": {
+                          "infections": 599,
+                          "deaths": 0,
+                          "recoveries": 21
+                      },
+                      "02/01/2020 10:00": {
+                          "infections": 599,
+                          "deaths": 0,
+                          "recoveries": 21
+                      },
+                      "01/31/2020 19:00": {
+                          "infections": 537,
+                          "deaths": 0,
+                          "recoveries": 14
+                      },
+                      "01/31/2020 14:00": {
+                          "infections": 538,
+                          "deaths": 0,
+                          "recoveries": 14
+                      },
+                      "01/30/2020 21:30": {
+                          "infections": 537,
+                          "deaths": 0,
+                          "recoveries": 9
+                      },
+                      "01/30/2020 11:00": {
+                          "infections": 428,
+                          "deaths": 0,
+                          "recoveries": 4
+                      },
+                      "01/29/2020 21:00": {
+                          "infections": 428,
+                          "deaths": 0,
+                          "recoveries": 4
+                      },
+                      "01/29/2020 14:30": {
+                          "infections": 296,
+                          "deaths": 0,
+                          "recoveries": 3
+                      },
+                      "01/29/2020 13:30": {
+                          "infections": 296,
+                          "deaths": 0,
+                          "recoveries": 3
+                      },
+                      "01/28/2020 23:00": {
+                          "infections": 296,
+                          "deaths": 0,
+                          "recoveries": 3
+                      },
+                      "01/28/2020 18:00": {
+                          "infections": 173,
+                          "deaths": 0,
+                          "recoveries": 3
+                      },
+                      "01/28/2020 13:00": {
+                          "infections": 173,
+                          "deaths": 0,
+                          "recoveries": 3
+                      },
+                      "01/27/2020 20:30": {
+                          "infections": 173,
+                          "deaths": 0,
+                          "recoveries": 1
+                      },
+                      "01/27/2020 19:00": {
+                          "infections": 128,
+                          "deaths": 0,
+                          "recoveries": 1
+                      },
+                      "01/27/2020 09:00": {
+                          "infections": 128,
+                          "deaths": 0,
+                          "recoveries": 1
+                      },
+                      "01/26/2020 23:00": {
+                          "infections": 128,
+                          "deaths": 0,
+                          "recoveries": 1
+                      }
+                  }
+              }
+          }
+      }
+  }
+}
