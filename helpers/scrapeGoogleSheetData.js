@@ -16,6 +16,7 @@ const scrapeGoogleSheetData = (html) => {
     const worksheetData = [];
     $(worksheet).find('tbody').find('tr').each((j, row) => {
       const item = $(row).find('td');
+      if (item.length < 6) return 1;   // continue
       const rowData = gatherRowData(item, i, j);
       worksheetData.push(rowData);
     });
