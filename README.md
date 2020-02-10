@@ -8,7 +8,7 @@ This project scrapes following public Google Sheet, provided by JHU CSSE:
 https://docs.google.com/spreadsheets/d/1wQVypefm946ch4XDp37uZ-wartW4V7ILdg-qYiDXUHM/htmlview  
 **As of 10.02. the source data (Google Sheet) was retired, I will upload latest .json data to this repo and I might continue this project to later on.**
 
-It contains data on coronavirus (nVoC), and how much it has spread in each country/province.
+It contains data on coronavirus (nCoV), and how much it has spread in each country/province.
 For a small sample, see `sample_data.json`. The actual output .json file contains over 200kB of data.
 
 This is one of my first scraping attempts ever. I may add more features in the future.
